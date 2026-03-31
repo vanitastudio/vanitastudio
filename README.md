@@ -1,23 +1,25 @@
 # Vanita Studio
 
 **EN**  
-Vanita Studio is a digital product and creative technology studio delivering business-focused solutions across web development, WordPress engineering, graphic design, SEO, automation systems, and mobile applications.
+Vanita Studio is a digital product and creative technology studio building modern brand experiences through WordPress engineering, custom web software, graphic design, SEO, automation systems, and mobile applications.
 
-We help brands and businesses build scalable digital products, improve visual communication, and create efficient systems that support growth.
+We work with brands and businesses that need more than a website: they need a clear digital presence, reliable systems, and execution that supports growth.
 
-## Services
+## Expertise
 
-- WordPress theme development
-- WordPress plugin development
-- Custom web software development
+- WordPress theme and plugin development
+- Custom web software and business platforms
 - Mobile application development
-- Graphic design
-- SEO strategy and optimization
-- Automation systems and workflow solutions
+- Graphic design and visual communication
+- SEO strategy and technical optimization
+- Automation systems and workflow improvement
 
-## Approach
+## What We Value
 
-We combine design, development, and strategic thinking to build reliable, maintainable, and growth-oriented digital products.
+- Clean and maintainable development
+- Strong visual presentation
+- Scalable digital systems
+- Business-focused execution
 
 ## Contact
 
@@ -27,23 +29,25 @@ We combine design, development, and strategic thinking to build reliable, mainta
 ---
 
 **TR**  
-Vanita Studio; web yazılım, WordPress geliştirme, grafik tasarım, SEO, otomasyon sistemleri ve mobil uygulama geliştirme alanlarında iş odaklı çözümler üreten bir dijital ürün ve yaratıcı teknoloji stüdyosudur.
+Vanita Studio; WordPress geliştirme, özel web yazılım, grafik tasarım, SEO, otomasyon sistemleri ve mobil uygulama alanlarında modern marka deneyimleri üreten dijital ürün ve yaratıcı teknoloji stüdyosudur.
 
-Markaların ve işletmelerin ölçeklenebilir dijital ürünler geliştirmesine, görsel iletişim gücünü artırmasına ve büyümeyi destekleyen verimli sistemler kurmasına yardımcı oluyoruz.
+Sadece bir web sitesi değil; güçlü bir dijital görünürlük, güvenilir sistemler ve büyümeyi destekleyen doğru uygulamalar isteyen markalarla çalışıyoruz.
 
-## Hizmetler
+## Uzmanlık Alanları
 
-- WordPress tema geliştirme
-- WordPress eklenti geliştirme
-- Özel web yazılım geliştirme
+- WordPress tema ve eklenti geliştirme
+- Özel web yazılım ve iş platformları
 - Mobil uygulama geliştirme
-- Grafik tasarım
-- SEO stratejisi ve optimizasyonu
-- Otomasyon sistemleri ve iş akışı çözümleri
+- Grafik tasarım ve görsel iletişim
+- SEO stratejisi ve teknik optimizasyon
+- Otomasyon sistemleri ve iş akışı iyileştirme
 
-## Yaklaşım
+## Çalışma Anlayışımız
 
-Tasarım, yazılım ve stratejik bakış açısını bir araya getirerek güvenilir, sürdürülebilir ve büyüme odaklı dijital ürünler geliştiriyoruz.
+- Temiz ve sürdürülebilir yazılım geliştirme
+- Güçlü görsel sunum
+- Ölçeklenebilir dijital sistemler
+- İş hedefi odaklı uygulama
 
 ## İletişim
 
